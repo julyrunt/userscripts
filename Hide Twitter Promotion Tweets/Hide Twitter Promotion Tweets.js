@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hide Twitter Promotion Tweets
-// @namespace    https://raw.githubusercontent.com/julyrunt/userscripts/main/Hide%20Twitter%20Promotion%20Tweets/Hide%20Twitter%20Promotion%20Tweets.js
-// @version      1.0.1
+// @namespace    https://github.com/julyrunt/userscripts/blob/main/Hide%20Twitter%20Promotion%20Tweets/Hide%20Twitter%20Promotion%20Tweets.js
+// @version      1.0.2
 // @description  Check and hide tweets containing promotional icons every 0.5 seconds.
 // @author       julyrunt
 // @match        https://twitter.com/*
